@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstname": "Ranjith",
+      "lastname": "Sakthivel",
+      "email": "sakthiranjith1804@gmail.com",
+      "dob": "2024-05-10T18:30:00.000Z",
+      "gender": "male",
+      "education": "SSLC",
+      "company": "Google",
+      "experience": 7,
+      "package": 12,
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "firstname": "Ranjith",
+      "lastname": "Sakthivel",
+      "email": "sakthiranjith1804@gmail.com",
+      "dob": "2024-05-06T18:30:00.000Z",
+      "gender": "male",
+      "education": "Others",
+      "company": "HCL",
+      "experience": 7,
+      "package": 8
+    },
+    {
+      "firstname": "Ranjith",
+      "lastname": "Sakthivel",
+      "email": "sakthiranjith1804@gmail.com",
+      "dob": "2024-05-04T18:30:00.000Z",
+      "gender": "male",
+      "education": "HSC",
+      "company": "dgxf",
+      "experience": 2,
+      "package": 148,
+      "id": "0da4"
+    }
+  ]
+}

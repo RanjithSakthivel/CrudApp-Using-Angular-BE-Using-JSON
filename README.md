@@ -22,6 +22,14 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
+## Running Commands for CRUD APP:
+1.first install all packages.
+2.download this all folders.
+3.and then in cli find directory of this app.
+4.Run The Command json-server --watch db.json
+5.and then run ng serve.
+6.Your app is running is http://localhost:4200/
+
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
